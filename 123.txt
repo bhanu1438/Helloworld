@@ -1,0 +1,14 @@
+ Volume in drive E is ENTERTAINMENT
+ Volume Serial Number is 3A0B-398E
+
+ Directory of E:\j
+
+06/16/2018  04:16 PM    <DIR>          .
+06/16/2018  04:16 PM    <DIR>          ..
+06/16/2018  04:16 PM                 0 123.txt
+06/13/2018  06:41 PM               676 Hello.class
+06/13/2018  06:41 PM               146 Hello.java
+06/16/2018  04:11 PM                 0 readme.txt
+06/16/2018  04:11 PM                 0 sample.txt
+               5 File(s)            822 bytes
+               2 Dir(s)  230,244,769,792 bytes free

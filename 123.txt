@@ -12,4 +12,4 @@
 06/16/2018  04:11 PM                 0 sample.txt
                5 File(s)            822 bytes
                2 Dir(s)  230,244,769,792 bytes free
-
+df
